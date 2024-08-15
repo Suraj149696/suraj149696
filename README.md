@@ -29,9 +29,10 @@ Completed the Cisco Data Analytics Essentials course.
 Focusing on Supervised Learning techniques like regression analysis, decision trees, and random forests.
 
 💬 Let's Connect
-LinkedIn: Suraj Jagtap
-GitHub: Suraj149696
-Portfolio: Suraj-Data-Analyst
+
+LinkedIn: https://www.linkedin.com/in/suraj-jagtap-data-analyst/
+
+Portfolio: https://suraj149696.github.io/Suraj-Data-Analyst/
 
 
 I'm always eager to collaborate on new projects and explore innovative ways to use data for impactful decisions. Let's connect and create something amazing together!
