@@ -3,6 +3,7 @@ Hi there! I'm Suraj Jagtap 👋
 
 I'm a passionate data analyst with a strong foundation in statistics, data science, and a keen interest in deriving actionable insights from complex data. My journey in data analytics has been fueled by my curiosity and dedication to learning and applying cutting-edge techniques to solve real-world problems.
 
+
 🌟 Key Skills & Tools
 Programming: Python, R
 Data Visualization: Power BI, Tableau
